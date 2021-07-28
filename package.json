@@ -1,0 +1,23 @@
+{
+  "name": "explorers-serverless-functions",
+  "version": "1.0.0",
+  "description": "Learn how to use serverless functions in less than 30 minutes!",
+  "main": "index.js",
+  "author": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huntertrammell/explorers-serverless-functions.git"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huntertrammell/explorers-serverless-functions/issues"
+  },
+  "homepage": "https://github.com/huntertrammell/explorers-serverless-functions#readme",
+  "devDependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
